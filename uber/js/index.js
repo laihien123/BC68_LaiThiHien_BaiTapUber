@@ -151,7 +151,7 @@ document.getElementById("btnHoaDon").onclick = () => {
     <table class="table table-bordered text-center text-uppercase fw-bold">
       <thead class="thead-dark">
         <tr>
-          <th class="text-center" colspan="5" scope="col">Chi tiết hóa đơn</th>
+          <th class="text-center" colspan="5" scope="col" >Chi tiết hóa đơn</th>
         </tr>
       </thead>
       <tbody>
